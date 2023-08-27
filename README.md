@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile where I showcase projects I'm working on/have worked on as well as a look at the new tools I try to pick up on my journey in the world of Data Analytics. My name is Maaz Sohail, I'm a Supply Chain Analyst. I am a highly driven learner currently trying to improve my skills and show the world what I am capable of!
+
+
+
 <!--
 **maaz-sohail/maaz-sohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
